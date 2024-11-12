@@ -1,3 +1,3 @@
 # order-source-medium-app
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/EadmondDantes/order-source-medium-app)
+This is a Shopify App that tags medium/source in dashboard screen
